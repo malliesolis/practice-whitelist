@@ -40,4 +40,8 @@
 		root: rootNode
 	};
 	
+	function drawWhitelist() {
+		
+	}
+	
 })();

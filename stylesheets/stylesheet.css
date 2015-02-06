@@ -1,0 +1,13 @@
+.instruct {
+	font-family: Verdana;
+	font-size: 15px;
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+
+#whitelist_art {
+	margin-top: 10px;
+	height: 300px;
+	width: 450px;
+	border: 2px solid #421010;
+}
